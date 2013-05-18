@@ -1,0 +1,61 @@
+TAmyTree1825
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.o /Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug/AmyTree1825 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051720EAB00000000000000AA
+t1366429355
+s170
+
+N/Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cpp
+c00000000519802360000000000000574
+t1368916534
+s1396
+i<iostream>
+
+N/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/AmyTree1825.LinkFileList
+c00000000519801E4000000000000009C
+t1368916452
+s156
+
+N/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.o
+t1368916452
+s3956
+
+N/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug/AmyTree1825
+t1368916452
+s8952
+
+CBuild AST from /Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2b31e3d53948b741^2e91e3d53948b741^---0#1#0#--18"Check dependencies36"08673B5F-3AC1-454F-8320-2A7A3EA719B7-
+
+CCompileC DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.o /Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s390609365.936261
+e390609366.477464
+r1
+xCompileC
+xDerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.o
+x/Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cppbed8efd53948b741^2a3a7ad63948b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cpp0000000000000000^3278"CompileC DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.o AmyTree1825/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bryongloden/Documents/AmyTree1825    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/AmyTree1825-generated-files.hmap -I/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/AmyTree1825-own-target-headers.hmap -I/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/AmyTree1825-all-target-headers.hmap -iquote /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/AmyTree1825-project-headers.hmap -I/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/DerivedSources/x86_64 -I/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/DerivedSources -F/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug -MMD -MT dependencies -MF /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.dia -c /Users/bryongloden/Documents/AmyTree1825/AmyTree1825/main.cpp -o /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/main.o36"0C4C2B9F-72FB-4D93-92C1-2FA5AC16B949-
+
+CLd /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug/AmyTree1825 normal x86_64
+s390609366.484363
+e390609366.512170
+r1
+xLd
+x/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug/AmyTree1825
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug/AmyTree18253c157cd63948b741^711d83d63948b741^---0#0#0#--886"Ld DerivedData/AmyTree1825/Build/Products/Debug/AmyTree1825 normal x86_64    cd /Users/bryongloden/Documents/AmyTree1825    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug -F/Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug -filelist /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Intermediates/AmyTree1825.build/Debug/AmyTree1825.build/Objects-normal/x86_64/AmyTree1825.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/bryongloden/Documents/AmyTree1825/DerivedData/AmyTree1825/Build/Products/Debug/AmyTree182536"5D06A5A7-504D-4723-A52F-20F2CF918841-
+
