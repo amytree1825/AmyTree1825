@@ -39,6 +39,9 @@ int main ()
     time(&timer);  /* get current time; same as: timer = time(NULL)  */
     
     seconds = difftime(timer,mktime(&y2k));
-    // the process to create a time had me worried, was the time from epock
-    printf ("%.f heartbeats +1", seconds);
+    // got you
+    char wordsorword;
+    strncpy(wordsorword, "win", 3)
+    // the process to create a time had me worried too, was the time from epock
+    printf ("%.f heartbleed %s", seconds+1, word);
 }
