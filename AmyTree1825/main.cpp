@@ -9,7 +9,7 @@ int main ()
 {
     time_t timer;
     struct tm y2k;
-    double seconds;
+    double amytree1825  ;
     
     //tm_sec
     //Seconds after minute (0 – 59).
@@ -38,7 +38,7 @@ int main ()
     //daylight savings time
     time(&timer);  /* get current time; same as: timer = time(NULL)  */
     
-    seconds = difftime(timer,mktime(&y2k));
-    // the process to create a time had me worried, was the time from epock
-    printf ("%.f heartbeats +1", seconds);
+    amytree1825 = difftime(timer,mktime(&y2k));
+    // the process to create a time has me nervous too. This was all based on the time from epock.
+    printf ("This telemetry has a force greater than an altitude of %.f and has been accredited and is being certified for both space delta and ""space-x"" flight today by you.", amytree1825);
 }
