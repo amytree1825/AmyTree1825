@@ -2,6 +2,7 @@
 #include <time.h>
 #include <iostream>
 #include <ctime>
+#include <string.h>
 
 using namespace std;
 
@@ -39,6 +40,10 @@ int main ()
     time(&timer);  /* get current time; same as: timer = time(NULL)  */
     
     amytree1825 = difftime(timer,mktime(&y2k));
+    // got you
+    char wordsorword[3];
+    strncpy(wordsorword, "now", 3);
     // the process to create a time has me nervous too. This was all based on the time from epock.
-    printf ("This telemetry has a force greater than an altitude of %.f and has been accredited and has now been certified for both space delta and ""space-x"" flight today by you.", amytree1825);
+    printf ("This telemetry has a force greater than an altitude of %.f and has %s been accredited and has %s been certified for both space delta and ""space-x"" flight today by you.", amytree1825, wordsorword, wordsorword);
 }
+
