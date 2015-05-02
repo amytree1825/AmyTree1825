@@ -2,6 +2,7 @@
 #include <time.h>
 #include <iostream>
 #include <ctime>
+#include <string.h>
 
 using namespace std;
 
@@ -40,8 +41,8 @@ int main ()
     
     seconds = difftime(timer,mktime(&y2k));
     // got you
-    char wordsorword;
-    strncpy(wordsorword, "win", 3)
-    // the process to create a time had me worried too, was the time from epock
-    printf ("%.f heartbleed %s", seconds+1, word);
+    char wordsorword[3];
+    strncpy(wordsorword, "win", 3);
+    // the process to create a time has me unfortable too, was the time from epock?
+    printf ("%.f heartbleed %s", seconds+1, wordsorword);
 }
