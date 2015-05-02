@@ -40,5 +40,5 @@ int main ()
     
     amytree1825 = difftime(timer,mktime(&y2k));
     // the process to create a time has me nervous too. This was all based on the time from epock.
-    printf ("This telemetry has a force greater than an altitude of %.f and has been accredited and is being certified for both space delta and ""space-x"" flight today by you.", amytree1825);
+    printf ("This telemetry has a force greater than an altitude of %.f and has been accredited and has now been certified for both space delta and ""space-x"" flight today by you.", amytree1825);
 }
