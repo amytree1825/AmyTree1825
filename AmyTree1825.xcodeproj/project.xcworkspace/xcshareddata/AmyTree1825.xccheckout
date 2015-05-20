@@ -5,6 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>2EA4F2CC-889C-4B52-8C34-BC78BB7E207D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>AmyTree1825</string>
@@ -15,13 +16,29 @@
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>AmyTree1825.xcodeproj</string>
+=======
+	<string>9ACF551C-9533-4FDD-B772-FB683B93DFFA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81CF3748E5D8BB7E6003535AADE51556E580EAD1</key>
+		<string>https://github.com/EmilyTree1825/EmilyTree1825.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AmyTree1825.xcodeproj/project.xcworkspace</string>
+>>>>>>> origin/master
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>81CF3748E5D8BB7E6003535AADE51556E580EAD1</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
+<<<<<<< HEAD
 	<string>https://github.com/EmilyTree1825/AmyTree1825.git</string>
+=======
+	<string>https://github.com/EmilyTree1825/EmilyTree1825.git</string>
+>>>>>>> origin/master
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +51,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>81CF3748E5D8BB7E6003535AADE51556E580EAD1</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< HEAD
 			<string>AmyTree1825</string>
+=======
+			<string>EmilyTree1825</string>
+>>>>>>> origin/master
 		</dict>
 	</array>
 </dict>
