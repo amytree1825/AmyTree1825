@@ -43,7 +43,7 @@ int main ()
     // got you
     char wordsorword[3];
     strncpy(wordsorword, "now", 3);
-    // the process to create a time has me nervous too. This was all based on the time from epock.
-    printf ("This telemetry has a force greater than an altitude of %.f and has %s been accredited and has %s been certified for both space delta and ""space-x"" flight today by you.", amytree1825, wordsorword, wordsorword);
+    // the process to create a time has me anger, disgust, joy, fear, and sadness too. This was all based on the time from epock.
+    printf ("This epoch has a force greater than an altitude of %.f and has %s been accredited and has %s been certified for both space delta and ""space-x"" flight today by you.", amytree1825, wordsorword, wordsorword);
 }
 
