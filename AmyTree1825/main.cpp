@@ -32,7 +32,7 @@ int main ()
     //Positive value if daylight saving time is in effect; 0 if daylight saving time is not in effect; negative value if status of daylight saving time is unknown. If the TZ environment variable is set, the C run-time library assumes rules appropriate to the United States for implementing the calculation of daylight-saving time (DST).
     
     y2k.tm_hour = 11;   y2k.tm_min = 1; y2k.tm_sec = 0;
-    y2k.tm_year = 81; y2k.tm_mon = 1; y2k.tm_mday = 8;
+    y2k.tm_year = 81; y2k.tm_mon = 2; y2k.tm_mday = 8;
     //y2k.tm_wday = 2; y2k.tm_yday = 133;
     y2k.tm_isdst = 1;
     
