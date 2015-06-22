@@ -10,7 +10,7 @@ int main ()
 {
     time_t timer;
     struct tm y2k;
-    double amytree1825  ;
+    double amytree1825;
     
     //tm_sec
     //Seconds after minute (0 – 59).
