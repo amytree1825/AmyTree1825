@@ -7,6 +7,7 @@
 	<key>IDESourceControlProjectIdentifier</key>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>2EA4F2CC-889C-4B52-8C34-BC78BB7E207D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>AmyTree1825</string>
@@ -19,6 +20,9 @@
 	<string>AmyTree1825.xcodeproj</string>
 =======
 <<<<<<< HEAD
+	<string>FF711FAF-AC7F-4E38-9213-3F71A15184DC</string>
+>>>>>>> bryongloden/master
+=======
 	<string>FF711FAF-AC7F-4E38-9213-3F71A15184DC</string>
 >>>>>>> bryongloden/master
 =======
@@ -57,6 +61,7 @@
 	<key>IDESourceControlProjectURL</key>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>https://github.com/EmilyTree1825/AmyTree1825.git</string>
 =======
 	<string>https://github.com/EmilyTree1825/EmilyTree1825.git</string>
@@ -66,10 +71,18 @@
 	<string>https://github.com/bryongloden/AmyTree1825.git</string>
 =======
 	<string>https://github.com/EmilyTree1825/EmilyTree1825.git</string>
+=======
+	<string>https://github.com/bryongloden/AmyTree1825.git</string>
+=======
+	<string>https://github.com/EmilyTree1825/EmilyTree1825.git</string>
+>>>>>>> bryongloden/master
 >>>>>>> fe213fa7ed2c604ed90edd838ce2a6b856f5e910
 =======
 	<string>https://github.com/amytree1825/AmyTree1825.git</string>
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> bryongloden/master
+=======
 >>>>>>> bryongloden/master
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
@@ -87,17 +100,23 @@
 <<<<<<< HEAD
 			<string>AmyTree1825</string>
 =======
+<<<<<<< HEAD
 			<string>EmilyTree1825</string>
 >>>>>>> origin/master
 =======
 <<<<<<< HEAD
 			<string>AmyTree1825</string>
 =======
+=======
+>>>>>>> bryongloden/master
 			<string>EmilyTree1825</string>
 >>>>>>> fe213fa7ed2c604ed90edd838ce2a6b856f5e910
 =======
 			<string>AmyTree1825</string>
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> bryongloden/master
+=======
 >>>>>>> bryongloden/master
 		</dict>
 	</array>
